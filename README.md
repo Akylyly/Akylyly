@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akylyly&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+![alt-text](https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif)
 <!--
 **Akylyly/Akylyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
