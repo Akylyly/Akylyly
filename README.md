@@ -11,8 +11,6 @@
 # My stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akylyly&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akylyly&hide=c&layout=compact)
-
 
 <!--
 **Akylyly/Akylyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
